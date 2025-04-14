@@ -15,6 +15,15 @@ Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-cu
 
 ---
 
+## 🛠 Tech Stack
+
+- **HTML5** – Markup structure
+- **CSS3** – Styling and responsive layout (Flexbox / Grid)
+- **JavaScript (ES6+)** – Interactivity and API handling
+- **API** – (e.g. OpenWeather, JSONPlaceholder, or your chosen one)
+
+---
+
 ## 🖼️ Some Screenshots for the project:
  
  ![Screenshot 2025-04-15 004536](https://github.com/user-attachments/assets/e4269f89-f511-4600-8997-e5c6690c9075)
