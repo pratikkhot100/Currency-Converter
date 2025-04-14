@@ -15,7 +15,7 @@ Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-cu
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Some Screenshots for the project:
  
  ![Screenshot 2025-04-15 004536](https://github.com/user-attachments/assets/e4269f89-f511-4600-8997-e5c6690c9075)
 
