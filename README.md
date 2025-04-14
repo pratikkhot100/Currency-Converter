@@ -1,4 +1,4 @@
-![Screenshot 2025-04-14 235700](https://github.com/user-attachments/assets/6be8c064-1845-4404-b489-c892bcd88a6b)# 💱 Currency Converter 💵 ➡️ 💴
+# 💱 Currency Converter 💵 ➡️ 💴
 
 The Responsive Currency Converter is a web-based application built using HTML, CSS, and JavaScript. It allows users to seamlessly convert the currency of one country to another by fetching real-time exchange rates from an external API. With a simple and user-friendly interface, the tool ensures quick and accurate conversions, making it useful for travelers, shoppers, and anyone dealing with foreign currencies.
 
