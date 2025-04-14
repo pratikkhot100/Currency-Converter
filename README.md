@@ -1,6 +1,6 @@
 # 💱 Currency Converter 💵 ➡️ 💴
 
-The Currency Converter is a web-based application built using HTML, CSS, and JavaScript. It allows users to seamlessly convert the currency of one country to another by fetching real-time exchange rates from an external API. With a simple and user-friendly interface, the tool ensures quick and accurate conversions, making it useful for travelers, shoppers, and anyone dealing with foreign currencies.
+The Responsive Currency Converter is a web-based application built using HTML, CSS, and JavaScript. It allows users to seamlessly convert the currency of one country to another by fetching real-time exchange rates from an external API. With a simple and user-friendly interface, the tool ensures quick and accurate conversions, making it useful for travelers, shoppers, and anyone dealing with foreign currencies.
 
 ## 🎥 Project Demo
 
