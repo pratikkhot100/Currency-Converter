@@ -38,3 +38,14 @@ let data = await response.json();
 const exchangeRate = data[fromCurr.value.toLowerCase()][toCurr.value.toLowerCase()];
 
 ```
+
+---
+
+## 📞 Contact Information
+
+  🐙 GitHub: https://github.com/pratikkhot100
+
+  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+
+  📧 Email: pratikkhot1207@gmail.com
+  
