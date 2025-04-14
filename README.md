@@ -16,12 +16,8 @@ Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-cu
 ---
 
 ## 🖼️ Screenshots
-
- ![Screenshot 2025-04-14 235700](https://github.com/user-attachments/assets/7f6a5036-015e-4f96-a5d2-702a6076c014)
-
- ![Screenshot 2025-04-14 235728](https://github.com/user-attachments/assets/e214d475-d8ef-4647-a591-493852bc38e5)
-
- ![Screenshot 2025-04-14 235801](https://github.com/user-attachments/assets/0ed3a5c9-7a33-43e0-8398-736cd2d6f741)
+ 
+ ![Screenshot 2025-04-15 004536](https://github.com/user-attachments/assets/e4269f89-f511-4600-8997-e5c6690c9075)
 
  ![Screenshot 2025-04-15 004152](https://github.com/user-attachments/assets/671b668a-f1c0-417d-a1cc-281be6a776eb)
 
