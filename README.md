@@ -4,7 +4,7 @@ The Currency Converter is a web-based application built using HTML, CSS, and Jav
 
 ## 🎥 Project Demo
 
-Check out the live demo of the Currency Converter: [Demo](https://pratikkhot100.github.io/Currency-Converter/)
+Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-currency-converter.netlify.app/)
 
 ---
 
